@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Test index</title>
+    </head>
+
+    <body>
+        <h1>These are test pages.</h1>
+
+        <p>
+            Each is me getting to know a few bits of HTML functionality so I 
+            can use them in larger projects.
+        </p>
+        
+        <a href="https://hrycls129.github.io/website01.github.io/">
+            Go back
+        </a>
+
+        <br>
+
+        <a href="https://hrycls129.github.io/website01.github.io/gadgets/tests/test_text.html">
+            Text test
+        </a>
+
+        <br>
+
+        <a href="https://hrycls129.github.io/website01.github.io/gadgets/tests/test_img.html">
+            Image test
+        </a>
+    </body>
+</html>
